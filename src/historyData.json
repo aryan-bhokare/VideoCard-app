@@ -1,0 +1,20 @@
+{
+  "history": [
+    {
+      "cardName": "My Card",
+      "videoDetails": {
+        "title": "My Video",
+        "url": "https://www.youtube.com/watch?v=123"
+      },
+      "timePlayed": "2022-03-27T10:30:00Z"
+    },
+    {
+      "cardName": "Another Card",
+      "videoDetails": {
+        "title": "Another Video",
+        "url": "https://www.youtube.com/watch?v=456"
+      },
+      "timePlayed": "2022-03-27T11:00:00Z"
+    }
+  ]
+}
